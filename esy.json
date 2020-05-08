@@ -1,0 +1,17 @@
+{
+  "name": "esy-menhir",
+  "version": "0.1.0",
+  "dependencies": {
+    "@esy-ocaml/reason": "*",
+    "@opam/dune": "*",
+    "@opam/menhir": "20200211",
+    "ocaml": "~4.8.1"
+  },
+  "devDependencies": {
+    "@opam/ocamlformat": "0.14.1",
+    "refmterr": "*",
+    "@opam/merlin": "*",
+    "ocaml": "~4.8.1",
+    "@opam/odoc": "*"
+  }
+}

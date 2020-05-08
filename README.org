@@ -1,0 +1,18 @@
+* Hey
+
+A simple JSON parser accepting lines from stdin
+
+** To build
+
+ #+BEGIN_SRC 
+ esy b dune build
+ #+END_SRC
+
+
+** To run
+
+ #+BEGIN_SRC sh
+ esy dune exec ./main.exe
+ #+END_SRC
+
+ It waits for input
